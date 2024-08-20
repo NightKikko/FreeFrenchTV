@@ -1,6 +1,6 @@
 # Avertissement : Flux IPTV
 
-**IMPORTANT : Le contenu de ce script provient de sources externes.** Nous ne sommes pas responsables des flux IPTV eux-mêmes, de leur qualité ou de leur disponibilité. Ce script est conçu pour vous permettre d'accéder aux flux en utilisant une liste M3U publique. Veuillez vous assurer que vous respectez les droits d'auteur et les conditions d'utilisation associées aux flux que vous consultez.
+## ❗ **IMPORTANT : Le contenu de ce script provient de sources externes.** Nous ne sommes pas responsables des flux IPTV eux-mêmes, de leur qualité ou de leur disponibilité. Ce script est conçu pour vous permettre d'accéder aux flux en utilisant une liste M3U publique. Veuillez vous assurer que vous respectez les droits d'auteur et les conditions d'utilisation associées aux flux que vous consultez.
 
 ## Description
 
